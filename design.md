@@ -99,9 +99,9 @@ TBD
 ## Server
 TBD
 
-* MongoDB?
-* Node.js?
-* Socket.IO
+* MongoDB
+* Node.js
+* Socket.io
 * Potential for customer servers
 
 ## Client
@@ -112,23 +112,31 @@ TBD
 		* Why?
 	* SVG
 		* When?
-	* Javascript
+	* JavaScript
 	* HTML5
 		* Location
 		* Local storage
 * Mac OS X
-	* Javascript MacOS X Scripting
+	* JavaScript MacOS X Scripting
 	* Voice
 * Command Line
 * iOS
+	* Ionic Framework (built upon Cardova)
 
 
 ## Other Items
 
 ### Logo
-* Crowd Source Design
-	* 99designs
 
+* Main Logo
+	* Crowd Source Design
+		* 99designs?
+
+* Mascot
+	* AI Feel
+	* Jarvis Feel
+	* Friendly
+	* Not Human
 
 
 ## Look Into
