@@ -108,10 +108,11 @@ TBD
 TBD
 
 * Browser
-	* d3
-		* Why?
+	* Simplified
+	* Fast
+	* Clean
+	* Minimal
 	* SVG
-		* When?
 	* JavaScript
 	* HTML5
 		* Location
@@ -122,6 +123,9 @@ TBD
 * Command Line
 * iOS
 	* Ionic Framework (built upon Cardova)
+
+* Internationalization
+	* http://formatjs.io/
 
 
 ## Other Items
@@ -143,3 +147,14 @@ TBD
 
 * googleauth
 * ogmail
+* NodeBot
+	* https://github.com/nhunzaker/nodebot
+* Retext
+	* https://github.com/wooorm/retext
+* Natural Node
+	* https://github.com/NaturalNode/natural
+* React
+	* http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts
+	* http://www.youtube.com/watch?v=Elr_RNt2R5Q
+* Isomorphic JavaScript
+	* http://isomorphic.net/
